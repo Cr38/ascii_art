@@ -36,11 +36,6 @@ RESET="\033[m"
 printf "$COL_03  • •  •    •      •  •   \n"
 printf "$COL_06       • •    •    •  • • \n"  
 printf "$COL_09       •         • •      \n"  
-# printf "$COL_06  \n"  
-# printf "$COL_07  \n"
-# printf "$COL_08  \n" 
-# printf "$COL_09  \n"              
-# printf "$COL_10  \n"
        
        
 
